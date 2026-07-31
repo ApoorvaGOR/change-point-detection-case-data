@@ -35,7 +35,7 @@ A multidimensional example containing daily closing prices for six technology co
 - Meta Platforms (META)
 - Tesla (TSLA)
 
-Each stock is fitted using its own piecewise-linear function while all six time series share a common set of change-point locations. This demonstrates multidimensional change-point detection using shared breakpoints across correlated time series. :contentReference[oaicite:1]{index=1}
+Each stock is fitted using its own piecewise-linear function while all six time series share a common set of change-point locations. This demonstrates multidimensional change-point detection using shared breakpoints across correlated time series. 
 
 ## Purpose
 
@@ -49,7 +49,7 @@ These datasets are intended for studying:
 
 ## File Format
 
-All datasets are provided as Microsoft Excel (`.xlsx`) workbooks and can be opened using Microsoft Excel, LibreOffice Calc, or Python libraries such as `pandas`.
+All datasets are provided as Microsoft Excel (`.xlsx`) workbooks and can be opened using Microsoft Excel, or Python libraries such as `pandas`.
 
 Example:
 
