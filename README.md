@@ -4,7 +4,7 @@ This repository contains the datasets used in the teaching case:
 
 > **When Linear Regression Isn’t Enough: Building Optimization Models for Change-Point Detection and Trend Analysis**
 
-The case introduces piecewise-linear fitting and change-point detection through linear regression, dynamic programming, and mixed-integer optimization. The datasets illustrate univariate, multidimensional, continuous, and discontinuous piecewise-linear fitting. :contentReference[oaicite:0]{index=0}
+The case introduces piecewise-linear fitting and change-point detection through linear regression, dynamic programming, and mixed-integer optimization. The datasets illustrate univariate, multidimensional, continuous, and discontinuous piecewise-linear fitting.
 
 ## Repository Structure
 
