@@ -4,7 +4,7 @@ This folder contains the stock-price datasets used in the teaching case:
 
 > **When Linear Regression Isn't Enough: Building Optimization Models for Change-Point Detection and Trend Analysis**
 
-The datasets illustrate different variants of piecewise-linear (PWL) fitting on historical stock-price data, including both continuous and discontinuous models, as well as multidimensional fitting with shared change-points. These examples are discussed in Section 3.2 of the accompanying teaching case. 
+The datasets illustrate different variants of piecewise-linear (PWL) fitting on historical stock-price data, including both continuous and discontinuous models, as well as multidimensional fitting with shared change-points. These examples are discussed in Section 3.2 of the accompanying teaching case. This dataset was obtained using the Yahoo Finance Python API (yfinance) and consists of historical daily closing prices beginning on January 1, 2015.
 
 ## Files
 
