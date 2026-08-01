@@ -14,7 +14,7 @@ This workbook contains county-level power outage time series for the period
 
 **September 14, 2021 – September 18, 2021 (end of day)**
 
-recorded at **15-minute intervals**.
+recorded at **15-minute intervals**. These correspond to power outages caused by hurricane Nicholas. 
 
 Each row corresponds to one Texas county, and each column (after the first) represents the **total number of customers without electric power** at a particular 15-minute timestamp.
 
